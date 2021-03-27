@@ -56,5 +56,5 @@ async def on_message(message):
     await client.process_commands(message)
 
 #run the client on the server
-client.run('ODIyOTY2OTcwMDY3ODQ1MTIw.YFZ9tw.4TAkejP8zhb7tb6f0fKy24o4pIw')
+client.run('ODIyOTY2OTcwMDY3ODQ1MTIw.YFZ9tw.QujfMi9YFdPTCCekLOMZYtrJFwc')
 
