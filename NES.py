@@ -42,10 +42,10 @@ async def on_message(message):
     if message.content == 'what is this':
         general_chanel = client.get_channel(753250363016216627)
 
-        myEmbed = discord.Embed(title="Administrator",description="Nimash Eshan",color=0x00ff00)
+        myEmbed = discord.Embed(title="Administrator",description="Nimash Eshan \nJohnny JTH",color=0x00ff00)
         myEmbed.add_field(name="Partner",value="Githmi Paranahewa",inline=False)
         myEmbed.add_field(name="Co leaders",value="Waruna Usgoda \nVasula \nnA PEACE \nRukshan \nmisha",inline=False)
-        myEmbed.add_field(name="Vip Members",value="Trey(ナ尺ツ) \nUmal Manjitha(bota malli) \nSisitha Liyanage(Fraddy Gaming)",inline=False)
+        myEmbed.add_field(name="Vip Members",value="Trey(ナ尺ツ) \nUmal Manjitha(bota malli) \nSisitha Liyanage(Fraddy Gaming \nBunny)",inline=False)
         myEmbed.add_field(name="Guest",value="Anuja Dampriya \nsenu gaming",inline=False)
         myEmbed.add_field(name="Version code:",value="v1.0.0",inline=False)
         myEmbed.add_field(name="Date released",value="March 21,2019",inline=False)
