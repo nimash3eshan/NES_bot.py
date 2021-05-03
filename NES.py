@@ -16,6 +16,7 @@ async def info(context):
     myEmbed.add_field(name="Vip Members",value="Trey(ナ尺ツ) \nUmal Manjitha(bota malli) \nSisitha Liyanage(Fraddy Gaming) \nBunny",inline=False)
     myEmbed.add_field(name="University Of Moratuwa",value="Eshan \nUmal Manjitha \nGithmi Paranahewa \nVidith \nDilshan \nshehan \nPubudu \nhasathcharu \nHntr-Kllr \nThejan_B_W \nVidath Chamikara",inline=False)
     myEmbed.add_field(name="Game Partners",value="Anuja Dampriya \nsenu gaming \nMikeHunt666 \n[SA81] ERA",inline=False)
+    myEmbed.add_field(name="Early Bot Developers",value="Fraddy Gaming \n░C░7░H░_░G░a░m░i░n░g░ \n𝒟𝓊𝓂𝒾𝓃𝒹𝓊",inline=False)
     myEmbed.add_field(name="Version code:",value="v2.0.0",inline=False)
     myEmbed.add_field(name="Date released",value="March 21,2019",inline=False)
     myEmbed.set_image(url='https://cdn.discordapp.com/attachments/673595467581358085/838903903868813362/giphy.gif')
