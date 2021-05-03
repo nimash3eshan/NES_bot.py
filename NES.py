@@ -26,7 +26,7 @@ async def info(context):
 
 @client.event
 async def on_ready():
-    activity = discord.Game(name="Rise Of Kingdom Srilanka", type=3)
+    activity = discord.Game(name="Rise Of Kingdom Srilanka  |--info|", type=3)
     await client.change_presence(status=discord.Status.idle, activity=activity)
     print("Bot is ready!")
     #do stuff.....
